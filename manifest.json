@@ -1,0 +1,255 @@
+{
+  "version": "1.0.0",
+  "total_files": 62,
+  "updated_at": "2026-10-21T23:13:10.134Z",
+  "files": {
+    "amloki_bau_page.pdf": {
+      "size": 208530,
+      "sha256": "f3551f0d012c1a434d634ee9e06f7a52b7066541e1e03f1e6b12f95815b0fef2"
+    },
+    "amra_bari_page.pdf": {
+      "size": 298538,
+      "sha256": "e1a15e7335822e0bbe7f053c3738b1d6e3d4578b4589c829d4cb9d2cdbf3b9a1"
+    },
+    "amrul_page.pdf": {
+      "size": 49705,
+      "sha256": "51656161ea3a9aacc83d28b354fae155673df0739a282c93ae1a6775b6b1a706"
+    },
+    "am_all_page.pdf": {
+      "size": 346995,
+      "sha256": "3fd58c343474ead28693888c89bce95e1c76264949356f79695844c100738430"
+    },
+    "am_amropali_page.pdf": {
+      "size": 53095,
+      "sha256": "4621cd31e60fac96f73ecd3a6e0ce0c4579b2f38c550975093f43e1afd418661"
+    },
+    "angur_page.pdf": {
+      "size": 49753,
+      "sha256": "1fdfad6ae632b2577b588058bf1f274360222822ab7bbf6e75936e65b34f6eeb"
+    },
+    "ata_page.pdf": {
+      "size": 211550,
+      "sha256": "bf04d14780e94abfd9c447bcaa74c50dfe4003904d855d4b2fdb6a1866ea8431"
+    },
+    "avocado_page.pdf": {
+      "size": 49884,
+      "sha256": "c62ce4a40be9241c0ffa10789ed0919442a8a7766298fa8cac6c4131448128f2"
+    },
+    "bel_page.pdf": {
+      "size": 207501,
+      "sha256": "26694b844ded653551da6543c6c0316acabff5df3fac22607484c66889b54c59"
+    },
+    "bilatigab_new_page.pdf": {
+      "size": 223356,
+      "sha256": "b929ee311bd187e9f85cb347f6bffc64984a9aa0b2bc231ce4adf76ad630f9e5"
+    },
+    "chalta_page.pdf": {
+      "size": 205889,
+      "sha256": "8a673835d10debf10d97c325f6543ccfe180b053e31eeba46b25c1f73feb42c4"
+    },
+    "cha_page.pdf": {
+      "size": 144585,
+      "sha256": "c5d311182417335d820985ceb1b8b4bb89f0439b78990b0fdf0f789499f7d69e"
+    },
+    "chuijhal_page.pdf": {
+      "size": 218139,
+      "sha256": "ee992fe0ccf6cffab7fb6a68af16f4f0f3dc9c1ae53278791560e2178eb64757"
+    },
+    "cofee_page.pdf": {
+      "size": 41041,
+      "sha256": "79db9e547507fdc0324ab16e8b2c460dee14eba19c5e0809b1a23892ae0b6c39"
+    },
+    "dalim_page.pdf": {
+      "size": 50318,
+      "sha256": "d1aef37db9365272652f929e458acf794dc310c65286c138a2f8331538af8a54"
+    },
+    "dragon_page.pdf": {
+      "size": 206927,
+      "sha256": "2dd60ce5b4ec3d376244b969cc6de4b6e43a53472019eb1e0b4064d36ac34f3e"
+    },
+    "dragon_top_page.pdf": {
+      "size": 209218,
+      "sha256": "f12b383ffbfbfc3228ad8e1b206bfc446c09fc27df0336a972432ef6f6de08dc"
+    },
+    "dumur_page.pdf": {
+      "size": 183997,
+      "sha256": "af11defa7c530d64323755dee446df1b447837394dfd3efb5196361e31cc5906"
+    },
+    "elach_page.pdf": {
+      "size": 519450,
+      "sha256": "4105a9a5837c475742aface38168949bc4c5e20ee33d623e0d0c7b5317af70ea"
+    },
+    "jambura_page.pdf": {
+      "size": 289124,
+      "sha256": "b2556103c270e3fa40aa0d71afc1668c2241678f445ae37432e081c79a1a3e3e"
+    },
+    "jamrul_new_page.pdf": {
+      "size": 220865,
+      "sha256": "ad3fe4ce9d179f1ada3519d6d1754b06651c76335b2a4987f6753b999c257dfe"
+    },
+    "jam_page.pdf": {
+      "size": 222329,
+      "sha256": "fd5c6cf5a631d74818e66f9f7d1c7577ab9c14f1a03e4ca4ff172a3f25a07e91"
+    },
+    "jolpai_page.pdf": {
+      "size": 214378,
+      "sha256": "b077c7563daef46ade35fa8dd807aeafb5ad0c43fdb6d96c58b784c293d31de9"
+    },
+    "kajubadam_page.pdf": {
+      "size": 207407,
+      "sha256": "fc98ca5615acb7cf391d10d230cfbe8e0e49ba16841c8ac2c2b14dcbc8415465"
+    },
+    "kamranga_bari_page.pdf": {
+      "size": 220612,
+      "sha256": "cab061aefeddc6102a86ba085b5cfcbb26b472ce1283c789082dbc53607db219"
+    },
+    "kathal_page.pdf": {
+      "size": 255927,
+      "sha256": "cc60f3e8037432b7045d99e6d353775af5de58b639112ce71af622ee48cc7114"
+    },
+    "khejur_page.pdf": {
+      "size": 69330,
+      "sha256": "4e44962b413d332015bc3f41aa573ba28ae5621d07a95916ddc3835ac563416c"
+    },
+    "kodbel_bau_page.pdf": {
+      "size": 219065,
+      "sha256": "03f491d08efd19267c2e27ca09854534db134ef8677ba1eccbbe996094355e15"
+    },
+    "kola_page.pdf": {
+      "size": 245058,
+      "sha256": "996c2d9ab53a1df25a6603cfef4352be0ffe3c19035e66a231c191ca1637f3d5"
+    },
+    "komla_page.pdf": {
+      "size": 251243,
+      "sha256": "172ec0daa5fafcf2aa2e88e5b5dd7a2af6ab1e869ad9722ef14d54617935438e"
+    },
+    "lebu_page.pdf": {
+      "size": 257294,
+      "sha256": "f78ee231612bbce8216c58906d2bf7215236e5ee6208f2341a823a4656884b9e"
+    },
+    "lichu_page.pdf": {
+      "size": 278318,
+      "sha256": "5ea1b0d93d6011b2a84be36d8853294aee53e12edb6d1b8c92a698083511a34f"
+    },
+    "longon_new_page.pdf": {
+      "size": 211711,
+      "sha256": "26dc4f3f0af46f734594310eeb598b6f9f98b8654cb4e6415c48eb57ed978000"
+    },
+    "malta_page.pdf": {
+      "size": 252809,
+      "sha256": "6821543aab0f97edd93c774a180e9f2f27df0db881ad30f650c67f52079668ab"
+    },
+    "mehgoni_page.pdf": {
+      "size": 145982,
+      "sha256": "78d9f5bd2c82b22d3eaea0ccac9d201304ccdda80704c64d704e88adade45ac9"
+    },
+    "narikel_khato_page.pdf": {
+      "size": 58361,
+      "sha256": "80fcdc3963e97120d1b320aa6065ca246494a37e045e40f143ae74c943a59ce4"
+    },
+    "narikel_page.pdf": {
+      "size": 240620,
+      "sha256": "08ada972a48f11df62231c63bb8b78da306a9059693a196a96321198620d4989"
+    },
+    "narsari_chara_page.pdf": {
+      "size": 143095,
+      "sha256": "4cc2d677a7699389b1a5f4ff90b27a5ab0c922e0146124ca6f68db859e95290c"
+    },
+    "notkon_page.pdf": {
+      "size": 231465,
+      "sha256": "ea0c9219f2f6e3bab0713b8bd28bff20db9569e0bc0ea52c38276db00157a98d"
+    },
+    "orboroi_new_page.pdf": {
+      "size": 190277,
+      "sha256": "240522ca1271e2ea99ee24de329d6d742eb53f88e169fe980ad0102f4752f85e"
+    },
+    "passion_page.pdf": {
+      "size": 82199,
+      "sha256": "d6a57c8679eb958182f09141ca1445cdad02447f069d4a6232cef5993dd8e9a2"
+    },
+    "pepe_page.pdf": {
+      "size": 231820,
+      "sha256": "f894556aeadd83d03b8d7868efb1cfd105486d0c0a599f2980bdd90a28e5aef3"
+    },
+    "peyara_page.pdf": {
+      "size": 263703,
+      "sha256": "48b468e52d5b9d4e90f02242de7e6d55975b57233fc08657f88bba6aea89b911"
+    },
+    "plum_bari_page.pdf": {
+      "size": 212184,
+      "sha256": "eec429e87888b42cf24834b29b2dc07a4dab0cca2e7512a53621bdc8e5253670"
+    },
+    "plum_bau_page.pdf": {
+      "size": 255238,
+      "sha256": "d88ed5d764e83a297ee522d31787c30445b7b0733555dd678a7d96d81481bb5e"
+    },
+    "rambutan_page.pdf": {
+      "size": 109190,
+      "sha256": "32ea6b9b77739fd1a36a4283aa7fb63778af71e39990279d261ea5a443d36668"
+    },
+    "satkora_new_page.pdf": {
+      "size": 190511,
+      "sha256": "8e51d0e0741840020854232f7cc6f68aa003e7cfebd54ce634dcc31c21e6006f"
+    },
+    "sofeda_bari_page.pdf": {
+      "size": 229311,
+      "sha256": "b1c7d64e52f0944f73c73294babc5cd6c385841f5b6eacb5e52555e5ac117a0d"
+    },
+    "sorifa_page.pdf": {
+      "size": 207532,
+      "sha256": "82b630ee85c5de350b4c825919ac2c11624f0385060a14eefb234b40c7be6583"
+    },
+    "supari_page.pdf": {
+      "size": 67066,
+      "sha256": "55495a97a8466f68ea3d0e7b5e9376e2984dd080bed0fae1b4bc1049e2184989"
+    },
+    "tal_new_page.pdf": {
+      "size": 187428,
+      "sha256": "7fc05fb7ee8d3d6a0e2510277a14c42c4893a5e831af389e337855a118315762"
+    },
+    "tejpata_page.pdf": {
+      "size": 49466,
+      "sha256": "1ebe464b6834c41adb163a7a204177d29e17ae948cd3b3086b0d47461b1fc9d0"
+    },
+    "tetul_new_page.pdf": {
+      "size": 290059,
+      "sha256": "d7f1c79f0e0fae3a5b79346816503fb9b3f9001fea6eb7ed20f3b3d36bc128bf"
+    },
+    "top_chas_amra_new_page.pdf": {
+      "size": 203492,
+      "sha256": "49978a81a16f84e075370d4c08171dc8b88944c0bc77f6e0e266e1944b8c4890"
+    },
+    "top_chas_am_new_page.pdf": {
+      "size": 133363,
+      "sha256": "98d928544d8db81f05a388799d8d3f50ebf59b98ea9c8a2bae89a31d7ae4bcdf"
+    },
+    "top_chas_lebu_new_page.pdf": {
+      "size": 208668,
+      "sha256": "823b2f2f85ba292290b7ff359915b468c6249f4561a2423aa8f21650eb5942d5"
+    },
+    "top_chas_page.pdf": {
+      "size": 49545,
+      "sha256": "f6e3691a3d3be644d1b0773a484fb9cd43d16d40a31eea23e07f2d2716ca55b5"
+    },
+    "top_fol_page.pdf": {
+      "size": 58402,
+      "sha256": "ad44c64672d0fb69161ffade3e34df117c1b0481ab84bc731c542c8da305b31d"
+    },
+    "vasomansobjiomosla_new_page.pdf": {
+      "size": 227213,
+      "sha256": "0cd8b4b54077addcf3b79b4295506286e35d4aa2d5f4ba5eee4de14c85fed351"
+    },
+    "vasomansobji_new_page.pdf": {
+      "size": 230080,
+      "sha256": "a145b21d418c59ead742730581732d4d332738f2f39442a7baff7ce3f6d6953f"
+    },
+    "vejoj_gulmo_page.pdf": {
+      "size": 115189,
+      "sha256": "5de20f5ed7dfbab6126126923054b29a7ac2f9a09dc31ddd795d10127ce7c18b"
+    },
+    "vejos_brikkho_page.pdf": {
+      "size": 75456,
+      "sha256": "1dd5f07bc6477a9cb5ca334ba9ddb97a62754403f64432209b6dc9ec110ac32e"
+    }
+  }
+}
